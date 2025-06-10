@@ -22,3 +22,9 @@ class Category(AuditData):
     description = models.TextField(blank=True)
     # created_at = models.DateTimeField(auto_now_add=True)
     # updated_at = models.DateTimeField(auto_now_add=True)
+
+class OrderDetails(AuditData):
+    orderdetails = models.BigIntegerField()
+    product_qty = models.PositiveIntegerField()
+    product = models.ForeignKey('Products', on_delete=models.SET_NULL, null=True, blank=True
+                                ,related_name='orderdetails')

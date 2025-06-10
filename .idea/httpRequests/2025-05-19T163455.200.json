@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "created_at": "2025-05-02T14:50:20.546132Z",
+    "updated_at": "2025-05-19T11:03:18.272222Z",
+    "name": "iphone",
+    "description": "very slick and elegant",
+    "price": "100.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 2,
+    "created_at": "2025-05-02T17:20:40.560159Z",
+    "updated_at": "2025-05-04T11:45:16.776418Z",
+    "name": "oneplus",
+    "description": "good for design",
+    "price": "78.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 3,
+    "created_at": "2025-05-04T12:02:46.769739Z",
+    "updated_at": "2025-05-04T12:02:46.769773Z",
+    "name": "samsung_m31",
+    "description": "valueformoney",
+    "price": "39.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 4,
+    "created_at": "2025-05-05T15:47:26.756431Z",
+    "updated_at": "2025-05-05T15:47:39.336629Z",
+    "name": "dslr",
+    "description": "for taking pictures",
+    "price": "45.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 5,
+    "created_at": "2025-05-05T15:48:40.593774Z",
+    "updated_at": "2025-05-05T15:48:40.593815Z",
+    "name": "samsung_m31",
+    "description": "valueformoney",
+    "price": "39.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 6,
+    "created_at": "2025-05-05T15:48:46.984260Z",
+    "updated_at": "2025-05-05T15:48:46.984323Z",
+    "name": "samsung_m31",
+    "description": "valueformoney",
+    "price": "39.00",
+    "is_available": true,
+    "category": null
+  },
+  {
+    "id": 7,
+    "created_at": "2025-05-05T16:34:54.594129Z",
+    "updated_at": "2025-05-05T16:34:54.594147Z",
+    "name": "iphone",
+    "description": "slim and sleek",
+    "price": "95.00",
+    "is_available": true,
+    "category": 1
+  },
+  {
+    "id": 8,
+    "created_at": "2025-05-05T16:35:45.552786Z",
+    "updated_at": "2025-05-05T16:35:45.552805Z",
+    "name": "dslr",
+    "description": "high quality pictures",
+    "price": "50.00",
+    "is_available": true,
+    "category": 2
+  },
+  {
+    "id": 9,
+    "created_at": "2025-05-05T16:36:39.005392Z",
+    "updated_at": "2025-05-05T16:36:39.005414Z",
+    "name": "realme_oppo",
+    "description": "budget phone",
+    "price": "25.00",
+    "is_available": true,
+    "category": 1
+  },
+  {
+    "id": 10,
+    "created_at": "2025-05-05T16:37:10.296012Z",
+    "updated_at": "2025-05-05T16:37:10.296038Z",
+    "name": "iqoo",
+    "description": "new entrant in market",
+    "price": "35.00",
+    "is_available": true,
+    "category": 1
+  },
+  {
+    "id": 11,
+    "created_at": "2025-05-05T16:37:41.486813Z",
+    "updated_at": "2025-05-05T16:37:41.486831Z",
+    "name": "nikon_normal",
+    "description": "vintage camera",
+    "price": "30.00",
+    "is_available": true,
+    "category": 2
+  }
+]

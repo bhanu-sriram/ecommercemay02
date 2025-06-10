@@ -1,130 +1,108 @@
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-19T163455.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T234430.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T234254.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T234234.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T233859.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T233809.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T233520.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T233508.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T233454.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T121010.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
+
+<> 2025-05-08T121006.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
+GET http://localhost:8000/api/allproducts/
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-<> 2025-05-06T103312.200.json
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/keyword=iphone
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-<> 2025-05-06T103219.200.json
+<> 2025-05-08T120922.200.json
 
 ###
 
@@ -133,409 +111,320 @@ User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-06T102931.200.json
+<> 2025-05-07T232108.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 105
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"nikon_normal",
-"description":"vintage camera",
-"price":30,
-"is_available" : true
-,"category":2}
-
-<> 2025-05-05T220741.201.json
+<> 2025-05-07T232103.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 107
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iqoo",
-"description":"new entrant in market",
-"price":35.00,
-"is_available" : true
-,"category":1}
-
-<> 2025-05-05T220710.201.json
+<> 2025-05-07T232003.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 105
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"realme_oppo",
-"description":"budget phone",
-"price":25.00,
-"is_available" : true
-,"category":1}
-
-<> 2025-05-05T220639.201.json
+<> 2025-05-07T231625.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 107
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"dslr",
-"description":"high quality pictures",
-"price":50.00,
-"is_available" : true
-,"category":2}
-
-<> 2025-05-05T220545.201.json
+<> 2025-05-07T231602.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 102
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone",
-"description":"slim and sleek",
-"price":95.00,
-"is_available" : true
-,"category":1}
-
-<> 2025-05-05T220454.201.json
+<> 2025-05-07T231412.404.html
 
 ###
 
-POST http://localhost:8000/api/createcategory/
-Content-Type: application/json
-Content-Length: 62
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-  "name": "camera",
-  "description":"for storing memories"
-}
-
-<> 2025-05-05T220426.201.json
+<> 2025-05-07T231356.404.html
 
 ###
 
-POST http://localhost:8000/api/createcategory/
-Content-Type: application/json
-Content-Length: 69
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-  "name": "cellphone",
-  "description":"used for taking pictures"
-}
-
-<> 2025-05-05T220321.201.json
+<> 2025-05-07T230458.404.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 112
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone",
-"description":"slim and sleek",
-"price":95.00,
-"is_available" : true
-,"category":"cellphone"}
-
-<> 2025-05-05T215029.400.json
+<> 2025-05-07T230446.500.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 111
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone"
-,"description":"premiumphone"
-,"price":95
-,"is_available": true,
-  "category" = 'cellphone'
-}
+<> 2025-05-07T230410.500.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 110
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone"
-,"description":"premiumphone"
-,"price":95
-,"is_available": true,
-  ,category = 'cellphone'
-}
+<> 2025-05-07T230355.500.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 110
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone"
-,"description":"premiumphone"
-,"price":95
-,"is_available": true,
-  ,category = 'cellphone'
-}
+<> 2025-05-07T230202.500.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 110
+GET http://localhost:8000/api/filterproductbyname/name=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"iphone"
-,"description":"premiumphone"
-,"price":95
-,"is_available": true,
-  ,category = 'cellphone'
-}
+<> 2025-05-07T230137.500.html
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 92
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-{
-"name":"samsung_m31"
-,"description":"valueformoney"
-,"price":39.00
-,"is_available": true
-}
-
-<> 2025-05-05T211847.201.html
-
-###
-
-POST http://localhost:8000/api/filterproductbyprice/
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-content-length: 0
-
-<> 2025-05-05T211843.404.html
-
-###
-
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 92
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-{
-"name":"samsung_m31"
-,"description":"valueformoney"
-,"price":39.00
-,"is_available": true
-}
-
-<> 2025-05-05T211840.201.html
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-<> 2025-05-05T113902.404.html
-
-###
-
-GET http://localhost:8000/api/filterproductbyprice/30
-User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-<> 2025-05-05T112329.200.json
-
-###
-
-GET http://localhost:8000/api/filterproductbyname/phone
+GET http://localhost:8000/api/filterproductbyname/keyword=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
 ###
 
-GET http://localhost:8000/api/filterproductbyname/phone
+GET http://localhost:8000/api/filterproductbyname/keyword=iphone
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/30
+GET http://localhost:8000/api/productbyid/1
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110937.200.json
+<> 2025-05-07T122307.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/80
+GET http://localhost:8000/api/productbyid/1
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
-
-<> 2025-05-05T110919.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/1
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110847.200.json
+<> 2025-05-07T122050.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110725.500.html
+<> 2025-05-07T122028.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110616.404.html
+<> 2025-05-07T121950.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110516.404.html
+<> 2025-05-07T121438.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110455.404.html
+<> 2025-05-07T121425.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110351.404.html
+<> 2025-05-07T121032.200.json
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/50
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-<> 2025-05-05T110243.404.html
+<> 2025-05-07T120901.500.html
 
 ###
 
-GET http://localhost:8000/api/filterproductbyprice/500
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
-
-<> 2025-05-05T110220.404.html
 
 ###
 
-POST http://localhost:8000/api/filterproductbyprice/
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
-content-length: 0
 
 ###
 
-POST http://localhost:8000/api/createproduct/
-Content-Type: application/json
-Content-Length: 92
+GET http://localhost:8000/api/productbyid/100
 User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
 Accept-Encoding: br, deflate, gzip, x-gzip
 Accept: */*
 
-{
-"name":"samsung_m31"
-,"description":"valueformoney"
-,"price":39.00
-,"is_available": true
-}
+###
 
-<> 2025-05-04T173246.201.html
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T114439.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T114039.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T114017.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T113834.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T113330.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T113045.500.html
+
+###
+
+GET http://localhost:8000/api/productbyid/100
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-07T112556.404.json
 
 ###
 
